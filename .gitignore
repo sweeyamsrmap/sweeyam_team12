@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Database
+app.db
+*.db
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Temporary / Agent
+*.txt
+reproduce_issue.py
+test_error_handling.py
+test_resources.py
+verify_endpoints.py
+output.txt
+models.txt
+models_utf8.txt
+models_15_utf8.txt
+test_out.txt
