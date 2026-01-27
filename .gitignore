@@ -18,6 +18,7 @@ dist/
 
 # Temporary / Agent
 *.txt
+!requirements.txt
 reproduce_issue.py
 test_error_handling.py
 test_resources.py
